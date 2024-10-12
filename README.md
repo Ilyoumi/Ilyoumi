@@ -13,7 +13,6 @@
 
 - 💬 Feel free to ask me about **ReactJS, Laravel, Material UI, Styled Components, Node.js, Express.js, MongoDB, or any related technologies and frameworks, and I'll be happy to help!**
 
-- 📫 How to reach me **gh.khabir@gmail.com**
 
 - ⚡ Fun fact **I have a personal collection of coffee mugs, each featuring a different cat breed. It combines my love for coffee and feline friends, making my mornings extra special!**
 
